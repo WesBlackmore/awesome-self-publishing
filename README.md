@@ -49,6 +49,7 @@ Whether you're writing your first eBook, publishing a paperback on demand, or la
 - [Atticus](https://atticus.io/) – Writing and formatting tool for eBooks and print.
 - [Calibre](https://calibre-ebook.com/) – Open-source eBook management and conversion.
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview) – Long-form writing and organization tool.
+- [AI eBook Pro](https://aiebookpro.com/) – AI eBook generator that drafts chapters and a cover, then exports PDF, EPUB and DOCX.
 
 ## Cover Design
 
